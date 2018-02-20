@@ -1,0 +1,30 @@
+White
+snowy_mountains 0.8
+tundra 0.2
+
+Green
+mountains 0.2
+hills 0.1
+forest 0.7
+
+Brown
+rocky_mountains 0.4
+pine_forest 0.6
+
+DarkGreen
+mountains 0.1
+jungle 0.4
+swamps 0.5
+
+Black
+volcano 0.8
+ashlands 0.2
+
+Blue
+ocean 1.0
+
+Grey
+mountain 1.0
+
+Yellow
+desert 1.0

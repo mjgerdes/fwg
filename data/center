@@ -1,0 +1,35 @@
+White
+tundra 0.5
+snowy_forest 0.5
+
+Green
+plains 0.3
+forest 0.2
+hills 0.3
+meadow 0.2
+
+Brown
+prairie 0.5
+badlands 0.5
+
+DarkGreen
+swamp 0.2
+jungle 0.7
+marches 0.1
+
+Black
+ashlands 0.5
+dead_forest 0.2
+black_hills 0.3
+
+Blue
+ocean 0.9
+island 0.1
+
+Grey
+peak 1.0
+
+Yellow
+desert 0.5
+dunes 0.3
+oasis 0.1

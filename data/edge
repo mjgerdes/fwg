@@ -1,0 +1,30 @@
+White
+snowy_forest 0.5
+tundra 0.5
+
+Green
+forest 0.6
+mountains 0.1
+plains 0.3
+
+Brown
+pine_forest 0.5
+canyon 0.1
+prairie 0.4
+
+DarkGreen
+marches 0.7
+swamp 0.3
+
+Black
+dead_forest 0.7
+ashlands 0.3
+
+Blue
+water 1.0
+
+Grey
+mountain 1.0
+
+Yellow
+desert 1.0

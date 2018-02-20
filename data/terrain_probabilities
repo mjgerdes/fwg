@@ -1,0 +1,83 @@
+plains
+plains 0.25
+hills 0.2
+forest 0.15
+prairie 0.1
+swamps 0.05
+badlands 0.1
+tundra 0.05
+jungle 0.05
+water 0.05
+
+forest
+forest 0.25
+plains 0.2
+hills 0.15
+prairie 0.1
+swamps 0.1
+mountains 0.05
+badlands 0.05
+tundra 0.05
+water 0.05
+
+hills
+forest 0.2
+plains 0.2
+hills 0.2
+mountains 0.3
+water 0.05
+prairie 0.05
+
+prairie
+prairie 0.25
+plains 0.25
+badlands 0.25
+jungle 0.05
+hills 0.05
+forest 0.1
+water 0.05
+
+mountains
+mountains 0.3
+tundra 0.25
+hills 0.25
+plains 0.05
+badlands 0.05
+desert 0.05
+prairie 0.05
+
+swamps
+swamps 0.5
+jungle 0.25
+water 0.25
+
+jungle
+swamps 0.25
+jungle 0.5
+plains 0.15
+forest 0.1
+
+water
+plains 0.1
+forest 0.1
+mountains 0.1
+jungle 0.1
+prairie 0.1
+water 0.25
+swamps 0.25
+
+badlands
+badlands 0.5
+desert 0.25
+prairie 0.1
+plains 0.1
+jungle 0.05
+
+desert
+desert 0.25
+badlands 0.75
+
+tundra
+plains 0.25
+tundra 0.25
+mountains 0.5
